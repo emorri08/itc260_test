@@ -1,7 +1,7 @@
 <?php
 
 
-//keys for ellycodes.com
+
 $siteKey = "*****";
 $secretKey = "*****";
 
