@@ -1,0 +1,497 @@
+/* ---------------------------- */
+/*                              */
+/* eleanorboyd.com              */
+/* main styles                  */
+/* created by: Eleanor Boyd     */
+/* © 2017                       */
+/*                              */
+/* ---------------------------- */
+/*
+/* --------------------------------------------- CSS RESET ----------------------------------------------- */
+@import url('https://fonts.googleapis.com/css?family=Raleway:200,200i,400,400i');
+
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+/* ------------------------------------------ END CSS RESET ---------------------------------------------- */
+
+/* ---------------------------------------- BEGIN GLOBAL STYLES ------------------------------------------ */
+/*
+body {
+    background-color:#000;
+    width:100%;
+    margin:auto;
+    font-family:'Raleway', sans-serif;
+    color:#e8ede6;
+}
+*/
+
+/*
+#myTitle {
+    width:550px;
+    margin:auto;
+}
+*/
+
+/*
+#boydLogo {
+    max-width:500px;
+    margin-top:30px;
+    margin-bottom:60px;
+}
+
+#contactInfoContainer {
+    margin-left:25px;
+    padding:10px;
+    margin-bottom:25px;
+}
+*/
+
+/*
+p.contactInfo {
+    font-family:'Raleway', 'Helvetica', 'Arial', sans-serif;
+    font-size:20px;
+    font-weight:normal;
+    color:#e8700c;
+    padding:5px 0px 0px 15px;
+    font-weight:200;
+}
+*/
+
+/*
+a.contactInfo {
+    font-family:'Raleway', 'Helvetica', 'Arial', sans-serif;
+    font-size:20px;
+    font-weight:normal;
+    color:#0095ff;
+    padding:5px 0px 0px 15px;
+    font-weight:200;
+}
+*/
+
+/*
+#fullName {
+    text-transform:uppercase;
+    color:#0cc6e8;
+    font-size:32px;
+}
+*/
+/*
+
+#title {
+    font-variant:small-caps;
+    color:#e8ede6;
+    font-size:22px;
+}
+*/
+
+/*
+#phoneNum {
+    color:#e8700c;
+    margin-top:6px;
+}
+
+#phoneNum a {
+    color:#e8700c;
+    text-decoration-line:underline;
+    text-decoration-style:dotted;
+    text-decoration-color:#e8ede6;
+}
+*/
+
+/*
+#emailAddy {
+    color:#e8700c;
+    margin-bottom:20px;
+}
+*/
+
+/*
+div#topLeft {
+    width:40%;
+    float:left;
+    margin-right:10px;
+    margin-left:10px;
+}
+*/
+
+/*
+img#featuredImage {
+    max-width:300px;
+    border:5px solid #e8700c;
+    border-radius:100px 0px;
+    margin-bottom:16px;
+    margin-left:25px;
+    margin-top:7px;
+}
+*/
+
+/*
+blockquote {
+    font-family:'Raleway', 'Helvetica', 'Arial', sans-serif;
+    font-size:16px;
+    font-style:italic;
+    font-weight:200;
+    line-height:24px;
+    text-align:justify;
+    color:#e8ede6;
+    width:250px;
+    padding:15px;
+    margin-left:50px;
+    margin-top:15px;
+    border-top:12px dotted #0cc6e8;
+    border-bottom:12px dotted #0cc6e8;
+}
+*/
+
+/*
+div#topRight {
+    width:55%;
+    float:left;
+    padding:0px 10px;
+    margin-right:10px;
+    margin-left:10px;
+}
+*/
+
+/*
+h1.mainHeadline {
+    font-family:'Raleway', 'Helvetica', 'Arial', sans-serif;
+    font-weight:400;
+    font-size:36px;
+    font-variant:small-caps;
+    color:#e8700c;
+    line-height:54px;
+    margin-top:75px;
+}
+*/
+/*
+
+h2.mainHeadline {
+    font-family:'Raleway', 'Helvetica', 'Arial', sans-serif;
+    font-weight:400;
+    font-size:32px;
+    font-variant:small-caps;
+    color:#e8700c;
+    line-height:48px;
+    margin-bottom:28px;
+}
+*/
+/*
+
+p.bioTxt {
+    font-family:'Raleway', 'Helvetica', 'Arial', sans-serif;
+    font-size:20px;
+    font-weight:200;
+    color:#e8ede6;
+    line-height:30px;
+    text-align:justify;
+    max-width:650px;
+}
+
+p.bioTxt a {
+    color:#0cc6e8;
+    text-transform:uppercase;
+    font-size:18px;
+    margin-left:15px;
+    text-decoration-line:underline;
+    text-decoration-style:dotted;
+    text-decoration-color:#e8ede6;
+}
+*/
+/*
+
+div#contactForm {
+    width:100%;
+    clear:both;
+    margin:10px;
+}
+
+#footContainer {
+    background-color:#000;
+    padding:20px;
+    text-align:center;
+}
+*/
+
+/*
+#footTxt {
+    font-family:'Raleway', serif;
+    font-variant:small-caps;
+    font-size:14px;
+    color:#e8ede6;
+}
+
+footer {
+    margin-top:25px;
+    clear:both;
+}
+*/
+
+/*------------------------- about styles --------------------------*/
+
+#descriptionContainer {
+    margin-top:36px;
+}
+
+/*
+h1.aboutHeadline {
+    font-family:'Raleway', 'Helvetica', 'Arial', sans-serif;
+    font-size:36px;
+    font-weight:400;
+    font-variant:small-caps;
+    color:#0cc6e8;
+    margin-top:36px;
+    margin-bottom:15px;
+}
+
+h2.aboutHeadline,
+h3.aboutHeadline {
+    font-family:'Raleway', 'Helvetica', 'Arial', sans-serif;
+    font-size:36px;
+    font-weight:400;
+    font-variant:small-caps;
+    color:#0cc6e8;
+    margin-top:36px;
+    margin-bottom:15px;
+}
+*/
+
+/*
+p.aboutBioTxt {
+    font-size:20px;
+    font-weight:200;
+    color:#e8ede6;
+    text-align:justify;
+    line-height:30px;
+    max-width:600px;
+}
+*/
+
+/*
+#missionStatmtContainer {
+    margin-bottom:75px;
+}
+
+h3.formHeadline {
+    font-size:32px;
+    font-weight:400px;
+    font-variant:small-caps;
+    line-height:48px;
+    color:#0cc6e8;
+    margin-bottom:10px;
+}
+
+p.contactTxt {
+    font-weight:400;
+    font-size:24px;
+    color:#e8ede6;
+    line-height:36px;
+    margin-bottom:25px;
+}
+*/
+
+/*------------------------- resume styles --------------------------*/
+
+/*
+#resumeContainer {
+
+}
+
+h3#resumeHead {
+    margin-left:25px;
+}
+
+#resumeContainer ul {
+    list-style-type:none;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+#resumeContainer ul li {
+    padding:5px 0;
+    margin-left:25px;
+}
+
+#resumeContainer ul li a {
+    font-size:24px;
+    color:#e8700c;
+    text-decoration-line:underline;
+    text-decoration-style:dotted;
+    text-decoration-color:#e8ede6;
+}
+*/
+/*
+
+div#onlineResume {
+    clear:both;
+}
+
+a.contactMe {
+    font-family:'Raleway', sans-serif;
+    font-size:22px;
+    color:#0095ff;
+    text-decoration-line:underline;
+    text-decoration-style:dotted;
+    text-decoration-color:#e8ede6;
+    font-variant:small-caps;
+    font-weight:200;
+}
+*/
+
+/*
+#contactMeContainer {
+    margin-top:50px;
+    margin-left:25px;
+}
+*/
+
+
+/*------------------------- work styles --------------------------*/
+
+/*
+div#workSamples {
+    margin-left:25px;
+}
+
+a.projectLink {
+    color:#e8700c;
+    font-size:22px;
+    font-weight:200;
+    text-decoration-line:underline;
+    text-decoration-style:dotted;
+    text-decoration-color:#e8ede6;
+}
+
+p#rmdReadMore {
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+p#lnhReadMore {
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+p#pawsReadMore {
+    padding-top:15px;
+    padding-bottom:15px;
+}
+*/
+
+/*
+#lnhContainer a {
+    padding-top:15px;
+}
+
+#pawsContainer a {
+    padding-top:15px;
+}
+*/
+
+/*
+p#lnhTxt {
+    padding-bottom:15px;
+}
+
+p#pawsTxt {
+    padding-bottom:15px;
+}
+*/
+
+/*------------------------- back to top links -----------------------------*/
+/*
+a.topLink {
+    font-size:18px;
+    font-family:'Raleway', sans-serif;
+    font-weight:200;
+    color:#0095ff;
+    text-decoration-line:underline;
+    text-decoration-style:dotted;
+    text-decoration-color:#e8ede6;
+}
+*/
+
+/*
+.topContainer {
+    height:50px;
+    margin-top:30px;
+}
+*/
+
+/* --------------------------- other styles ---------------------------- */
+/*
+
+#rmdAltTxt {
+    display:none;
+}
+
+#lnhAltTxt {
+    display:none;
+}
+
+#pawsAltTxt {
+    display:none;
+}
+*/
+
+/* ------------------------------- responsive styles ------------------------------ */
+
+/*@media all and (max-width:800px) {*/
+/*
+    
+    div#topLeft {
+        width:100%;
+
+        margin-right:10px;
+        margin-left:10px;
+}
+    
+    div#topRight {
+        width:100%;
+        padding:0px 10px;
+        margin-right:10px;
+        margin-left:10px;
+}
+*/
+    
+/*
+    #missionStatmtContainer {
+        display:none;
+    }
+    
+    #aboutBioContainer {
+        padding-bottom:50px;
+    }
+    
+    #rmdTxt {
+        display:none;
+    }
+    
+    #lnhTxt {
+        display:none;
+    }
+*/
+/*
+    
+    #pawsTxt {
+        display:none;
+    }
+*/
+    
+    #rmdAltTxt {
+        display:block;
+    }
+
+    #lnhAltTxt {
+        display:block;
+    }
+
+    #pawsAltTxt {
+        display:block;
+    }
+    
+}
