@@ -2,8 +2,8 @@
 
 
 //keys for ellycodes.com
-$siteKey = "6LdgPqsUAAAAAJUTMWe9lVvUhHiLCkjZvEKORrRD";
-$secretKey = "6LdgPqsUAAAAAP9rkML80YggfnNSNB7nl8QyJ_j0";
+$siteKey = "*****";
+$secretKey = "*****";
 
 
 ////here we avoid date errors:
